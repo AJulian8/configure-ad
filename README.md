@@ -4,7 +4,7 @@
 </p>
 
 <h1>Active Directory - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the installation and use of actice directory in our Azure VM's.<br />
 
 
 <h2>Video Demonstration</h2>
