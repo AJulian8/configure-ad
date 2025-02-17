@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/g4LY2yK.png" width="400"/> 
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Active Directory - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
