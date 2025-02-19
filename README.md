@@ -27,7 +27,7 @@ This tutorial outlines the installation and use of actice directory in our Azure
 <h2>Active Directory Lab Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/R2yR2zx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cP9VDSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this image I have succesfuly 
