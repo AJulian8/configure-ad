@@ -19,10 +19,10 @@ This tutorial outlines the installation and use of actice directory in our Azure
 <h2>List of Prerequisites</h2>
 
 - Install Internet Information Services (IIS)
-- 
-- Item 3
-- Item 4
-- Item 5
+- Set up Domain Controller
+- Create a Virtual Network and Subnet
+- Create the Domain Controller VM's
+- Log into the VM and edit the firewall
 
 <h2>osTicket Lab Steps</h2>
 
