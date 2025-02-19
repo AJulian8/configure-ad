@@ -46,6 +46,6 @@ Here we can see that I successfully created my domain controller and set it up p
 <img src="https://i.imgur.com/X8I8Pet.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this amage we simply logged into client-1 just to make sure all the information is right and to retrieve the right IP adress.
+In this image we simply logged into client-1 just to make sure all the information is right and to retrieve the right IP adress.
 </p>
 <br />
