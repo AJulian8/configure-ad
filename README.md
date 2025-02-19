@@ -24,7 +24,7 @@ This tutorial outlines the installation and use of actice directory in our Azure
 - Create the Domain Controller VM's
 - Log into the VM and edit the firewall
 
-<h2>osTicket Lab Steps</h2>
+<h2>Active Directory Lab Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/R2yR2zx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
