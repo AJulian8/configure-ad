@@ -38,7 +38,7 @@ This diagram above is the easiest way to show  what I created as far as my clien
 <img src="https://i.imgur.com/XOkkW9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we can see that I successfully created my domain controller and set it up properly allowing me to use Server Manager. In here is where I can make changes to the firewall and also change client-1 and change the IP to point to my domain controller.
+Here we can see that I successfully created my domain controller and set it up properly allowing me to use Server Manager. In this VM is where I can make changes to the firewall and also change client-1 and change the IP to point to my domain controller.
 </p>
 <br />
 
