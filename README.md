@@ -30,7 +30,7 @@ This tutorial outlines the installation and use of actice directory in our Azure
 <img src="https://i.imgur.com/NAMjqa1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This diagram above is the easiest way to show  what I created as far as my client-1 and how it will be communicating with the domain controller. I also went in and created my rescourse groups along with a virtual network and subnet that will be show in the next slides.
+This diagram above is the easiest way to show  what I created as far as my client-1 and how it will be communicating with the domain controller. I also went in and created my rescourse groups along with a virtual network and subnet that will be shown in the next slides.
 </p>
 <br />
 
