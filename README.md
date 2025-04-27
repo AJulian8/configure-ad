@@ -27,7 +27,7 @@ This tutorial outlines the installation and use of actice directory in our Azure
 <h2>Active Directory Lab Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/NAMjqa1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EkICON4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 This diagram above is the easiest way to show  what I created as far as my client-1 and how it will be communicating with the domain controller. I also went in and created my rescourse groups along with a virtual network and subnet that will be shown in the next slides.
