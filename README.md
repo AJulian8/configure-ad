@@ -35,10 +35,10 @@ In Azure the first step in setting up our Domain Controller is creating a resour
 <br />
 
 <p>
-<img src="https://i.imgur.com/XOkkW9G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BqrIYoY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here we can see that I successfully created my domain controller and set it up properly allowing me to use Server Manager. In this VM is where I can make changes to the firewall and also change client-1 and change the IP to point to my domain controller.
+Next we want to create a Virtual Network and Subnet.
 </p>
 <br />
 
