@@ -43,9 +43,9 @@ Next we want to create a Virtual Network and Subnet.
 <br />
 
 <p>
-<img src="https://i.imgur.com/X8I8Pet.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lg5J3oL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this image we simply logged into client-1 just to make sure all the information is right and to retrieve the right IP adress.
+Then we will creat a virtual machine for the domain controller.
 </p>
 <br />
