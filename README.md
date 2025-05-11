@@ -48,4 +48,12 @@ Next we want to create a Virtual Network and Subnet.
 <p>
 Then we will creat a virtual machine for the domain controller.
 </p>
-<br />
+<br /> 
+
+<p>
+<img src="https://i.imgur.com/Q08nQmY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here we just want to go in and change the IP to static just to make the movement between vm's easier for us.
+</p>
+<br /> 
