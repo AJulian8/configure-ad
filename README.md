@@ -57,3 +57,11 @@ Then we will creat a virtual machine for the domain controller.
 Here we just want to go in and change the IP to static just to make the movement between vm's easier for us.
 </p>
 <br /> 
+
+<p>
+<img src="https://i.imgur.com/8nJRxW4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I then went in and turned off the firewall within dc-1 just for testing connectivity. 
+</p>
+<br /> 
