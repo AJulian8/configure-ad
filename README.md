@@ -74,3 +74,10 @@ Next we create our client-1 virual machine and set it to the same resource group
 </p>
 <br /> 
 
+<p>
+<img src="https://i.imgur.com/V8jRxrs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+So within client-1 since I want it to point directly to my comain controller I went in to changed the netowrk interface card and used it's IP for my DNS server. 
+</p>
+<br /> 
