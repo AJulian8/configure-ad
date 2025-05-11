@@ -65,3 +65,12 @@ Here we just want to go in and change the IP to static just to make the movement
 I then went in and turned off the firewall within dc-1 just for testing connectivity. 
 </p>
 <br /> 
+
+<p>
+<img src="https://i.imgur.com/NvGLKHV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we create our client-1 virual machine and set it to the same resource group and make it Windows 10 Pro. 
+</p>
+<br /> 
+
